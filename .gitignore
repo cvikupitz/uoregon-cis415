@@ -1,0 +1,18 @@
+# Object, swp, archives, pycache files
+*.o
+*.swp
+*.tgz
+__pycache__
+
+# Project executables
+tldmonitor
+tldmonitorLL
+uspsv1
+uspsv2
+uspsv3
+uspsv4
+uspsv5
+cpubound
+iobound
+mydemo
+include_crawler

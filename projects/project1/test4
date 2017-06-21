@@ -1,0 +1,9 @@
+echo this
+sleep 2
+date
+whoami
+ls
+sleep 2
+ls /home/
+./hello_world
+echo done
